@@ -9,4 +9,4 @@ Credentials page for PARTS Enterprise sandbox project.
 
 ## Link
 Live demo site
-![https://auth.sandbox.teddy.org.uk/?target=https%3A%2F%2Ferp.sandbox.partsenterprise.partsltd.co.uk](https://auth.sandbox.teddy.org.uk/?target=https%3A%2F%2Ferp.sandbox.partsenterprise.partsltd.co.uk)
+[https://auth.sandbox.teddy.org.uk/?target=https%3A%2F%2Ferp.sandbox.partsenterprise.partsltd.co.uk](https://auth.sandbox.teddy.org.uk/?target=https%3A%2F%2Ferp.sandbox.partsenterprise.partsltd.co.uk)
