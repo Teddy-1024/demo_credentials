@@ -10,3 +10,7 @@ Credentials page for PARTS Enterprise sandbox project.
 ## Link
 Live demo site
 [https://auth.sandbox.teddy.org.uk/?target=https%3A%2F%2Ferp.sandbox.partsenterprise.partsltd.co.uk](https://auth.sandbox.teddy.org.uk/?target=https%3A%2F%2Ferp.sandbox.partsenterprise.partsltd.co.uk)
+
+
+## License
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
